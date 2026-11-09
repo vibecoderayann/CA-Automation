@@ -3,15 +3,16 @@
 <img src="./public/logo.png" alt="CA Copilot Official Logo" width="128" height="128" />
 
 # CA Copilot
-### Offline-First Audit & Tax Automation for Chartered Accountants**
+### **Offline-First Audit & Tax Automation Suite for Chartered Accountants**
 
+[![GitHub Stars](https://img.shields.io/github/stars/vibecoderayann/CA-Automation?style=for-the-badge&logo=github&color=gold)](https://github.com/vibecoderayann/CA-Automation/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vibecoderayann/CA-Automation?style=for-the-badge&logo=github&color=blue)](https://github.com/vibecoderayann/CA-Automation/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Platform: Windows & Web](https://img.shields.io/badge/Platform-Windows%20%7C%20Web-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-getting-started)
 [![Data Privacy: 100% Offline](https://img.shields.io/badge/Privacy-100%25%20Offline-10B981?style=for-the-badge&logo=shield&logoColor=white)](#-data-privacy--security-first)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite 8](https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Electron](https://img.shields.io/badge/Electron_Desktop-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
 <p align="center">
@@ -294,6 +295,14 @@ Contributions are welcome! If you are a Chartered Accountant, Tax Auditor, or Fu
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+## ⭐️ Show Your Support
+
+If **CA Copilot** saves you hours of tedious audit work, Excel formatting, or GST reconciliation, please consider giving this repository a **Star** (⭐️)! It helps more Chartered Accountants, students, and auditors discover this open-source suite.
+
+---
+
 <div align="center">
-  <sub>Built with ❤️ for Chartered Accountants, Tax Auditors, and Finance Professionals.</sub>
+  <sub>Built with ❤️ for Indian Chartered Accountants, Tax Auditors, and Finance Professionals.</sub>
 </div>
